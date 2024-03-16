@@ -12,7 +12,7 @@ Run these commands:
 - `chmod +x *`
 - `bash aIPL.sh`
 
-### after the victim opens the link you sent, you will get the IP Adress, location, current time and User-Agent of the victim
+after the victim opens the link you sent, you will get the IP Adress, location, current time and User-Agent of the victim
 
 ## How to Update
 Check this repository regularly, to check if it got updated.
@@ -27,4 +27,5 @@ After that it should work fine!
 
 # Credits
 Discord: askxp#0
+
 YouTube: https://youtube.com/@askxp
