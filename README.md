@@ -6,7 +6,7 @@ This tool will grab the ip address and device specs of a person when the user op
 - pkg update
 - pkg install git
 - git clone https://github.com/ab3gv9ne8pr4st6xy2dc7fu1io5lm0kz/termux-ip-logger
-- cd IP-Grabber
+- cd termux-ip-logger
 - chmod +x *
 - bash ip-grabber.sh
 
