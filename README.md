@@ -8,7 +8,7 @@ This tool will log the ip address and device specs of a person when they open th
 - git clone https://github.com/aSk-p/aIPL
 - cd aIPL
 - chmod +x *
-- bash ip-logger.sh
+- bash aIPL.sh
 
  ### after the victim opens the link you will get the ip of the victim
  
