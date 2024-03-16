@@ -4,7 +4,6 @@ This tool will log the IP Address, location, current time and User-Agent of a pe
 ## How to run aIPL on Termux (Android):
 
 Run these commands:
-- `termux-setup-storage`
 - `apt update`
 - `pkg update`
 - `pkg install git`
