@@ -1,4 +1,18 @@
 #!/bin/bash
+# Custom logo ASCII art
+
+echo " ._____________  .____                                       "
+echo " |   \______   \ |    |    ____   ____   ____   ___________ "
+echo " |   ||     ___/ |    |   /  _ \ / ___\ / ___\_/ __ \_  __ \\"
+echo " |   ||    |     |    |__(  <_> ) /_/  > /_/  >  ___/|  | \/"
+echo " |___||____|     |_______ \____/\___  /\___  / \___  >__|   "
+echo "                         \/    /_____//_____/      \/       "
+
+# Your script or commands go here
+echo "By ab3gv9ne8pr4st6xy2dc7fu1io5lm0kz!"
+
+
+
 trap 'printf "\n";stop;exit 1' 2
 
 
