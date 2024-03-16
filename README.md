@@ -1,4 +1,4 @@
-# aIPL
+# aIPL - Termux IP Logger
 This tool will log the IP Address, location, current time and User-Agent of a person when they open the link
 
 ## How to run aIPL on Termux (Android):
