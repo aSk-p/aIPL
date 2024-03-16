@@ -1,7 +1,7 @@
 # aIPL
 This tool will log the ip address and device specs of a person when they open the link
 
-# Steps to run this tool on termux(android):
+# Steps to run this tool on Aermux (Android):
 - apt update
 - pkg update
 - pkg install git
