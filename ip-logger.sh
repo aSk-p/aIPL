@@ -23,7 +23,7 @@ exit 1
 
 else
 printf "\e[1;93mMake sure to subscribe first!\e[1;93m"
-printf "\e[1;93m[!] Copied Link!\e[0m\n"
+xdg-open "https://www.youtube.com/@ab3gv9ne8pr4st6x"
 sleep 1
 exit
 fi
