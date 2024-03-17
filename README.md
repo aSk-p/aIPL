@@ -7,6 +7,7 @@ Run these commands:
 - `apt update`
 - `pkg update`
 - `pkg install git`
+- `pkg install php`
 - `git clone https://github.com/aSk-p/aIPL`
 - `cd aIPL`
 - `chmod +x *`
