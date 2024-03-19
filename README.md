@@ -29,4 +29,6 @@ After that it should work fine!
 # Credits
 Discord: askxp#0
 
-YouTube: https://youtube.com/@askxp
+Community Server: https://discord.com/invite/EQ2aWrXtqK
+
+YouTube: https://youtube.com/@askxpp
